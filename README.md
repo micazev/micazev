@@ -2,7 +2,7 @@
 
 My name is Michelle! I’m a São Paulo-based **RPA/Automation Engineer** who cares deeply about improving everyday processes through thoughtful strategy & organization, so real people can make quality and meaningful work .
 
-- 🔭 I’m currently working on my first work outside Brazil [@wexinc](https://github.com/wexinc)
+- 🔭 I’m currently working on my first job outside Brazil [@wexinc](https://github.com/wexinc)
 - 🌱 I’m currently learning **Urban Planning** [@UFABC](https://www.ufabc.edu.br/noticias/ufabc-esta-entre-as-melhores-do-brasil-em-ranking-internacional-que-avalia-universidades-mais-jovens-do-mundo) as a second degree
 - 👯 I’m looking to collaborate on projects related to urban planning
 - 🤔 I’m looking for help with 
