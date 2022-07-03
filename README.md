@@ -16,8 +16,7 @@ My name is Michelle! I’m a São Paulo-based **RPA/Automation Engineer** who ca
 - 🧗‍♂️ Learning how to climb
 - 🧘‍♀️ Practicing, learning or [teaching yoga](https://www.tiktok.com/@mica.yoga)
 - 🌏 Travelling around
-- ✍️ Writting on my blog
-- 💻 Increasing and improving my [second brain](https://www.youtube.com/watch?v=SjZSy8s2VEE)
+- - 💻 Increasing and improving my [second brain](https://www.youtube.com/watch?v=SjZSy8s2VEE)
 
 <!--
 **micazev/micazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
